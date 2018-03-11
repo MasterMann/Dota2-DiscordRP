@@ -30,6 +30,7 @@ This app uses native Game State Integration feature built into the Dota client, 
 1. Download the latest version from "releases"
 2. Unzip the content to any folder
 3. Copy the "gamestate_integration" directory to your Dota 2 client config directory (dota 2 beta\game\dota\cfg)
+4. Launch command prompt in the directory with includes *START.bat* and type "npm install" to install additional modules for Dota 2 GSI support
 
 # Usage
 
