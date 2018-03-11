@@ -1,0 +1,1 @@
+Copy this folder to "dota 2 beta\game\dota\cfg"

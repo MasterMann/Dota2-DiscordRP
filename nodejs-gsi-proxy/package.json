@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-gsi-proxy",
+  "version": "0.0.0",
+  "description": "nodejs-gsi-proxy",
+  "main": "server.js",
+  "author": {
+    "name": "User"
+  },
+  "dependencies": {
+    "dota2-gsi": "^1.0.2"
+  }
+}
